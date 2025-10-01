@@ -1,0 +1,9 @@
+{
+  "rolling_gate.category.rolling_gate_rzf_addition" : "RGRA",
+
+  "rolling_gate_rzf_addition.rolling_gate.rule.cut_string" : "剪掉绊线",
+  "rolling_gate_rzf_addition.rolling_gate.rule.cut_string.desc" : "重新引入fabric刷线机",
+
+  "rolling_gate_rzf_addition.rolling_gate.rule.lava_andesite_handler" : "简易再生安山岩",
+  "rolling_gate_rzf_addition.rolling_gate.rule.lava_andesite_handler.desc" : "当岩浆碰到铁块时会凝固成安山岩"
+}

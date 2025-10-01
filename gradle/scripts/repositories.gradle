@@ -1,0 +1,8 @@
+repositories {
+    mavenLocal()
+    mavenCentral()
+    maven { // AnvilLib、AnvilCraft
+        name = "Cjsah Maven"
+        url = "https://server.cjsah.net:1002/maven/"
+    }
+}

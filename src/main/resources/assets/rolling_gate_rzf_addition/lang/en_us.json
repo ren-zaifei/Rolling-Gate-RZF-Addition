@@ -1,0 +1,9 @@
+{
+  "rolling_gate.category.rolling_gate_rzf_addition" : "RGRA",
+
+  "rolling_gate_rzf_addition.rolling_gate.rule.cut_string" : "Cut The Tripwire",
+  "rolling_gate_rzf_addition.rolling_gate.rule.cut_string.desc" : "Make String's Disarmed true",
+
+  "rolling_gate_rzf_addition.rolling_gate.rule.lava_andesite_handler" : "Easy Andesite Handler",
+  "rolling_gate_rzf_addition.rolling_gate.rule.lava_andesite_handler.desc" : "Lava Solidifies Into Andesite When In Contact With Iron Block"
+}
