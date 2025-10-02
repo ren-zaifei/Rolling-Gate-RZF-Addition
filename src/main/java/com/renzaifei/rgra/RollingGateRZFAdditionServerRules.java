@@ -21,4 +21,11 @@ public class RollingGateRZFAdditionServerRules {
             }
     )
     public static boolean lavaAndesiteHandler = false;
+    //苦力怕爆炸不破坏方块
+    @Rule(
+            categories = {
+                    RollingGateRZFAddition.MODID,
+            }
+    )
+    public static boolean cancelCreeperExplode = false;
 }
