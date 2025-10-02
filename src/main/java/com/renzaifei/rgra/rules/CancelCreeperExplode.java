@@ -12,9 +12,9 @@ import org.jetbrains.annotations.NotNull;
 @EventBusSubscriber(modid = RollingGateRZFAddition.MODID)
 public class CancelCreeperExplode {
     @SubscribeEvent
-    public static void cancel(@NotNull ExplosionEvent.Start event) {
+    public static void cancel(@NotNull ExplosionEvent.Detonate event) {
         if (!RollingGateRZFAdditionServerRules.cancelCreeperExplode) return;
         if (!(event.getExplosion().getDirectSourceEntity() instanceof Creeper)) return;
-        event.setCanceled(true);
+        event.getAffectedBlocks().clear();
     }
 }
