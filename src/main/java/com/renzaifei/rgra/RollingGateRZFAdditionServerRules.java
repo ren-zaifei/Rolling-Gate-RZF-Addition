@@ -1,7 +1,6 @@
 package com.renzaifei.rgra;
 
 
-import dev.anvilcraft.rg.RollingGateCategories;
 import dev.anvilcraft.rg.api.Rule;
 import dev.anvilcraft.rg.api.server.RGServerRules;
 
@@ -28,4 +27,11 @@ public class RollingGateRZFAdditionServerRules {
             }
     )
     public static boolean cancelCreeperExplode = false;
+    //杀死末影龙掉落龙头
+    @Rule(
+            categories = {
+                    RollingGateRZFAddition.MODID,
+            }
+    )
+    public static boolean renewableDragonHead = false;
 }

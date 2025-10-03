@@ -8,6 +8,7 @@
 | `cutString`            | `boolean` | `false` | `false`, `true` | 引入fabric的刷线机     |
 | `lavaAndesiteHandler`  | `boolean` | `false` | `false`, `true` | 使岩浆碰到铁块后凝固并生成安山岩 |
 | `cancelCreeperExplode` | `boolean` | `false` | `false`, `true` | 苦力怕爆炸时不会破坏方块     |
+| `renewableDragonHead`  | `boolean` | `false` | `false`, `true` | 末影龙死亡时会掉落龙首      |
 
 ---
 
@@ -28,3 +29,4 @@ Required Dependency：Rolling Gate [link](https://www.curseforge.com/minecraft/m
 | `cutString`            | `boolean` | `false` | `false`, `true` | Make String's Disarmed true                                   |
 | `lavaAndesiteHandler`  | `boolean` | `false` | `false`, `true` | Lava Solidifies Into Andesite When In Contact With Iron Block |
 | `cancelCreeperExplode` | `boolean` | `false` | `false`, `true` | Creepers Can't Break Blocks When It Explode                   |
+| `renewableDragonHead`  | `boolean` | `false` | `false`, `true` | The Ender Dragon Drops A Dragon Head When killed              |

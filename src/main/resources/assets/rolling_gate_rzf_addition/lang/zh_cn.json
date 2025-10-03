@@ -8,5 +8,8 @@
   "rolling_gate_rzf_addition.rolling_gate.rule.lava_andesite_handler.desc" : "当岩浆碰到铁块时会凝固成安山岩",
 
   "rolling_gate_rzf_addition.rolling_gate.rule.cancel_creeper_explode" : "苦力怕禁止破坏方块",
-  "rolling_gate_rzf_addition.rolling_gate.rule.cancel_creeper_explode.desc" : "苦力怕爆炸时不会破坏方块"
+  "rolling_gate_rzf_addition.rolling_gate.rule.cancel_creeper_explode.desc" : "苦力怕爆炸时不会破坏方块",
+
+  "rolling_gate_rzf_addition.rolling_gate.rule.renewable_dragon_head" : "可再生龙首",
+  "rolling_gate_rzf_addition.rolling_gate.rule.renewable_dragon_head.desc" : "当末影龙死亡时会掉落龙首"
 }
