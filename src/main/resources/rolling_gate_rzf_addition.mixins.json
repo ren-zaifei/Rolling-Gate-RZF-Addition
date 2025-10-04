@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "package": "com.renzaifei.rgra.Mixin",
+  "compatibilityLevel": "JAVA_21",
+  "refmap": "survival_plus_plus.refmap.json",
+  "mixins": [
+    "EndermanTakeBlockGoalMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

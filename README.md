@@ -9,6 +9,7 @@
 | `lavaAndesiteHandler`  | `boolean` | `false` | `false`, `true` | 使岩浆碰到铁块后凝固并生成安山岩 |
 | `cancelCreeperExplode` | `boolean` | `false` | `false`, `true` | 苦力怕爆炸时不会破坏方块     |
 | `renewableDragonHead`  | `boolean` | `false` | `false`, `true` | 末影龙死亡时会掉落龙首      |
+| `smartEndermen`        | `boolean` | `false` | `false`, `true` | 末影人只会搬起西瓜和南瓜     |
 
 ---
 
@@ -30,3 +31,4 @@ Required Dependency：Rolling Gate [link](https://www.curseforge.com/minecraft/m
 | `lavaAndesiteHandler`  | `boolean` | `false` | `false`, `true` | Lava Solidifies Into Andesite When In Contact With Iron Block |
 | `cancelCreeperExplode` | `boolean` | `false` | `false`, `true` | Creepers Can't Break Blocks When It Explode                   |
 | `renewableDragonHead`  | `boolean` | `false` | `false`, `true` | The Ender Dragon Drops A Dragon Head When killed              |
+| `smartEndermen`        | `boolean` | `false` | `false`, `true` | Endermen can only take Melons And Pumpkins                    |

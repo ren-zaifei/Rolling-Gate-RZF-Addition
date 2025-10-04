@@ -14,5 +14,6 @@ public class RollingGateRZFAddition {
     public static final String MODID = "rolling_gate_rzf_addition";
     public static final Logger LOGGER = LogUtils.getLogger();
     public RollingGateRZFAddition(@NotNull @SuppressWarnings("unused") IEventBus modEventBus, @NotNull @SuppressWarnings("unused") ModContainer modContainer) {
+
     }
 }

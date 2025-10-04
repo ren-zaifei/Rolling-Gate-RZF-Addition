@@ -11,5 +11,8 @@
   "rolling_gate_rzf_addition.rolling_gate.rule.cancel_creeper_explode.desc" : "苦力怕爆炸时不会破坏方块",
 
   "rolling_gate_rzf_addition.rolling_gate.rule.renewable_dragon_head" : "可再生龙首",
-  "rolling_gate_rzf_addition.rolling_gate.rule.renewable_dragon_head.desc" : "当末影龙死亡时会掉落龙首"
+  "rolling_gate_rzf_addition.rolling_gate.rule.renewable_dragon_head.desc" : "当末影龙死亡时会掉落龙首",
+
+  "rolling_gate_rzf_addition.rolling_gate.rule.smart_endermen" : "懂事的末影人",
+  "rolling_gate_rzf_addition.rolling_gate.rule.smart_endermen.desc" : "末影人只会搬起西瓜和南瓜"
 }
