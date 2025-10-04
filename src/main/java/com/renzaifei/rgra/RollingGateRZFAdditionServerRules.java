@@ -34,4 +34,11 @@ public class RollingGateRZFAdditionServerRules {
             }
     )
     public static boolean renewableDragonHead = false;
+    //懂事的末影人
+    @Rule(
+            categories = {
+                    RollingGateRZFAddition.MODID,
+            }
+    )
+    public static boolean smartEndermen = false;
 }
