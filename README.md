@@ -11,6 +11,7 @@
 | `renewableDragonHead`  | `boolean` | `false` | `false`, `true` | 末影龙死亡时会掉落龙首      |
 | `smartEndermen`        | `boolean` | `false` | `false`, `true` | 末影人只会搬起西瓜和南瓜     |
 | `noTradeCooldown`      | `boolean` | `false` | `false`, `true` | 无交易冷却            |
+| `onePunch`             | `boolean` | `false` | `false`, `true` | 在创造模式下一击毙命       |
 
 ---
 
@@ -34,3 +35,4 @@ Required Dependency：Rolling Gate [link](https://modrinth.com/mod/rolling-gate)
 | `renewableDragonHead`  | `boolean` | `false` | `false`, `true` | The Ender Dragon Drops A Dragon Head When killed              |
 | `smartEndermen`        | `boolean` | `false` | `false`, `true` | Endermen can only take Melons And Pumpkins                    |
 | `noTradeCooldown`      | `boolean` | `false` | `false`, `true` | No Trade Cooldown                                             |
+| `onePunch`             | `boolean` | `false` | `false`, `true` | Kill Mobs With One Punch In Creative Mode                     |
