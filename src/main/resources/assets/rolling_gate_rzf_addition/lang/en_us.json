@@ -14,5 +14,8 @@
   "rolling_gate_rzf_addition.rolling_gate.rule.renewable_dragon_head.desc" : "The Ender Dragon Drops A Dragon Head When killed",
 
   "rolling_gate_rzf_addition.rolling_gate.rule.smart_endermen" : "Smart Endermen",
-  "rolling_gate_rzf_addition.rolling_gate.rule.smart_endermen.desc" : "Endermen can only take Melons And Pumpkins"
+  "rolling_gate_rzf_addition.rolling_gate.rule.smart_endermen.desc" : "Endermen can only take Melons And Pumpkins",
+
+  "rolling_gate_rzf_addition.rolling_gate.rule.no_trade_cooldown" : "No Trade Cooldown",
+  "rolling_gate_rzf_addition.rolling_gate.rule.no_trade_cooldown.desc" : "No Trade Cooldown"
 }

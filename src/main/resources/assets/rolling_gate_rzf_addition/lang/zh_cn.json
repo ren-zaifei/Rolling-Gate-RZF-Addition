@@ -14,5 +14,8 @@
   "rolling_gate_rzf_addition.rolling_gate.rule.renewable_dragon_head.desc" : "当末影龙死亡时会掉落龙首",
 
   "rolling_gate_rzf_addition.rolling_gate.rule.smart_endermen" : "懂事的末影人",
-  "rolling_gate_rzf_addition.rolling_gate.rule.smart_endermen.desc" : "末影人只会搬起西瓜和南瓜"
+  "rolling_gate_rzf_addition.rolling_gate.rule.smart_endermen.desc" : "末影人只会搬起西瓜和南瓜",
+
+  "rolling_gate_rzf_addition.rolling_gate.rule.no_trade_cooldown" : "无交易冷却",
+  "rolling_gate_rzf_addition.rolling_gate.rule.no_trade_cooldown.desc" : "无交易冷却"
 }
