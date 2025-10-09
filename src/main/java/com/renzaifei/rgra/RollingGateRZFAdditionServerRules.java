@@ -41,4 +41,11 @@ public class RollingGateRZFAdditionServerRules {
             }
     )
     public static boolean smartEndermen = false;
+    //村民无限交易
+    @Rule(
+            categories = {
+                    RollingGateRZFAddition.MODID,
+            }
+    )
+    public static boolean noTradeCooldown = false;
 }
