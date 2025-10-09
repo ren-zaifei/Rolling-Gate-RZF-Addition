@@ -48,4 +48,11 @@ public class RollingGateRZFAdditionServerRules {
             }
     )
     public static boolean noTradeCooldown = false;
+    //创造模式一击必杀
+    @Rule(
+            categories = {
+                    RollingGateRZFAddition.MODID,
+            }
+    )
+    public static boolean onePunch = false;
 }

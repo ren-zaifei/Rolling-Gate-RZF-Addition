@@ -17,5 +17,8 @@
   "rolling_gate_rzf_addition.rolling_gate.rule.smart_endermen.desc" : "Endermen can only take Melons And Pumpkins",
 
   "rolling_gate_rzf_addition.rolling_gate.rule.no_trade_cooldown" : "No Trade Cooldown",
-  "rolling_gate_rzf_addition.rolling_gate.rule.no_trade_cooldown.desc" : "No Trade Cooldown"
+  "rolling_gate_rzf_addition.rolling_gate.rule.no_trade_cooldown.desc" : "No Trade Cooldown",
+
+  "rolling_gate_rzf_addition.rolling_gate.rule.one_punch" : "One PunchMan!",
+  "rolling_gate_rzf_addition.rolling_gate.rule.one_punch.desc" : "Kill Mobs With One Punch In Creative Mode"
 }
