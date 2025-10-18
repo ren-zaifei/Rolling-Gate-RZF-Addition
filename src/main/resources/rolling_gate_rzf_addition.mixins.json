@@ -2,8 +2,9 @@
   "required": true,
   "package": "com.renzaifei.rgra.Mixin",
   "compatibilityLevel": "JAVA_21",
-  "refmap": "survival_plus_plus.refmap.json",
+  "refmap": "rolling_gate_rzf_addition.refmap.json",
   "mixins": [
+    "CancelFluidBroke",
     "EndermanTakeBlockGoalMixin"
   ],
   "client": [

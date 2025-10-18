@@ -55,4 +55,25 @@ public class RollingGateRZFAdditionServerRules {
             }
     )
     public static boolean onePunch = false;
+    //禁用爆炸破坏方块
+    @Rule(
+            categories = {
+                    RollingGateRZFAddition.MODID,
+            }
+    )
+    public static boolean cancelExplodeBroke = false;
+    //禁用流体破坏红石原件
+    @Rule(
+            categories = {
+                    RollingGateRZFAddition.MODID,
+            }
+    )
+    public static boolean cancelFluidBroke = false;
+    //骨粉催熟小型花
+    @Rule(
+            categories = {
+                    RollingGateRZFAddition.MODID,
+            }
+    )
+    public static boolean accelerateSmallFlowers = false;
 }

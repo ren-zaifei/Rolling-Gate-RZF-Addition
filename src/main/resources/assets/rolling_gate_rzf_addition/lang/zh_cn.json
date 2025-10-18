@@ -20,5 +20,14 @@
   "rolling_gate_rzf_addition.rolling_gate.rule.no_trade_cooldown.desc" : "无交易冷却",
 
   "rolling_gate_rzf_addition.rolling_gate.rule.one_punch" : "一拳超人!",
-  "rolling_gate_rzf_addition.rolling_gate.rule.one_punch.desc" : "在创造模式下一击毙命"
+  "rolling_gate_rzf_addition.rolling_gate.rule.one_punch.desc" : "在创造模式下一击毙命",
+
+  "rolling_gate_rzf_addition.rolling_gate.rule.cancel_explode_broke" : "禁止爆炸破坏方块",
+  "rolling_gate_rzf_addition.rolling_gate.rule.cancel_explode_broke.desc" : "所有爆炸都不会破坏方块",
+
+  "rolling_gate_rzf_addition.rolling_gate.rule.cancel_fluid_broke" : "禁止流体破坏红石原件",
+  "rolling_gate_rzf_addition.rolling_gate.rule.cancel_fluid_broke.desc" : "流体不会破坏红石原件",
+
+  "rolling_gate_rzf_addition.rolling_gate.rule.accelerate_small_flowers" : "骨粉可催熟小型花",
+  "rolling_gate_rzf_addition.rolling_gate.rule.accelerate_small_flowers.desc" : "骨粉可催熟小型花"
 }

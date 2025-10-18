@@ -20,5 +20,14 @@
   "rolling_gate_rzf_addition.rolling_gate.rule.no_trade_cooldown.desc" : "No Trade Cooldown",
 
   "rolling_gate_rzf_addition.rolling_gate.rule.one_punch" : "One PunchMan!",
-  "rolling_gate_rzf_addition.rolling_gate.rule.one_punch.desc" : "Kill Mobs With One Punch In Creative Mode"
+  "rolling_gate_rzf_addition.rolling_gate.rule.one_punch.desc" : "Kill Mobs With One Punch In Creative Mode",
+
+  "rolling_gate_rzf_addition.rolling_gate.rule.cancel_explode_broke" : "Disable Explosion Block Damage!",
+  "rolling_gate_rzf_addition.rolling_gate.rule.cancel_explode_broke.desc" : "All Explosions Do Not Break Blocks",
+
+  "rolling_gate_rzf_addition.rolling_gate.rule.cancel_fluid_broke" : "Disable Fluid RedStone Component Damage!",
+  "rolling_gate_rzf_addition.rolling_gate.rule.cancel_fluid_broke.desc" : "Fluid Do Not Break RedStone Component",
+
+  "rolling_gate_rzf_addition.rolling_gate.rule.accelerate_small_flowers" : "Bone Meal Can Accelerate The Growth Of Small Flowers",
+  "rolling_gate_rzf_addition.rolling_gate.rule.accelerate_small_flowers.desc" : "Bone Meal Can Accelerate The Growth Of Small Flowers"
 }
