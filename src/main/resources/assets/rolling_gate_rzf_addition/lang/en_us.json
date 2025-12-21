@@ -29,5 +29,8 @@
   "rolling_gate_rzf_addition.rolling_gate.rule.cancel_fluid_broke.desc" : "Fluid Do Not Break RedStone Component",
 
   "rolling_gate_rzf_addition.rolling_gate.rule.accelerate_small_flowers" : "Bone Meal Can Accelerate The Growth Of Small Flowers",
-  "rolling_gate_rzf_addition.rolling_gate.rule.accelerate_small_flowers.desc" : "Bone Meal Can Accelerate The Growth Of Small Flowers"
+  "rolling_gate_rzf_addition.rolling_gate.rule.accelerate_small_flowers.desc" : "Bone Meal Can Accelerate The Growth Of Small Flowers",
+
+  "rolling_gate_rzf_addition.rolling_gate.rule.tough_wither_rose" : "Tough Wither Rose",
+  "rolling_gate_rzf_addition.rolling_gate.rule.tough_wither_rose.desc" : "Wither roses can be planted on any block."
 }

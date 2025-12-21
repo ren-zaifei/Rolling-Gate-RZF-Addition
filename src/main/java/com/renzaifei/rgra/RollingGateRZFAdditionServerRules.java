@@ -76,4 +76,11 @@ public class RollingGateRZFAdditionServerRules {
             }
     )
     public static boolean accelerateSmallFlowers = false;
+    //坚韧凋零玫瑰
+    @Rule(
+            categories = {
+                    RollingGateRZFAddition.MODID,
+            }
+    )
+    public static boolean toughWitherRose = false;
 }
