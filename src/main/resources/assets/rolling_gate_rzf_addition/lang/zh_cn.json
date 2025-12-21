@@ -29,5 +29,8 @@
   "rolling_gate_rzf_addition.rolling_gate.rule.cancel_fluid_broke.desc" : "流体不会破坏红石原件",
 
   "rolling_gate_rzf_addition.rolling_gate.rule.accelerate_small_flowers" : "骨粉可催熟小型花",
-  "rolling_gate_rzf_addition.rolling_gate.rule.accelerate_small_flowers.desc" : "骨粉可催熟小型花"
+  "rolling_gate_rzf_addition.rolling_gate.rule.accelerate_small_flowers.desc" : "骨粉可催熟小型花",
+
+  "rolling_gate_rzf_addition.rolling_gate.rule.tough_wither_rose" : "坚韧的凋零玫瑰",
+  "rolling_gate_rzf_addition.rolling_gate.rule.tough_wither_rose.desc" : "凋零玫瑰可以种在任何方块上"
 }

@@ -15,6 +15,7 @@
 | `cancelExplodeBroke`     | `boolean` | `false` | `false`, `true` | 所有爆炸都不会破坏方块      |
 | `cancelFluidBroke`       | `boolean` | `false` | `false`, `true` | 流体不会破坏红石原件       |
 | `accelerateSmallFlowers` | `boolean` | `false` | `false`, `true` | 骨粉可催熟小型花         |
+| `toughWitherRose`        | `boolean` | `false` | `false`, `true` | 凋零玫瑰可以种在任何方块上    |
 
 ---
 
@@ -42,3 +43,4 @@ Required Dependency：Rolling Gate [link](https://modrinth.com/mod/rolling-gate)
 | `cancelExplodeBroke`     | `boolean` | `false` | `false`, `true` | All Explosions Do Not Break Blocks                            |
 | `cancelFluidBroke`       | `boolean` | `false` | `false`, `true` | Fluid Do Not Break RedStone Component                         |
 | `accelerateSmallFlowers` | `boolean` | `false` | `false`, `true` | Bone Meal Can Accelerate The Growth Of Small Flowers          |
+| `toughWitherRose`        | `boolean` | `false` | `false`, `true` | Wither roses can be planted on any block.                     |

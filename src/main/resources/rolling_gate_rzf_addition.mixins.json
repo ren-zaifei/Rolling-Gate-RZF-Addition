@@ -5,7 +5,8 @@
   "refmap": "rolling_gate_rzf_addition.refmap.json",
   "mixins": [
     "CancelFluidBroke",
-    "EndermanTakeBlockGoalMixin"
+    "EndermanTakeBlockGoalMixin",
+    "WitherRoseMixin"
   ],
   "client": [
   ],
