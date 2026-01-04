@@ -7,6 +7,7 @@ import net.minecraft.core.particles.ParticleTypes;
 import net.minecraft.server.level.ServerLevel;
 import net.minecraft.tags.BlockTags;
 import net.minecraft.world.entity.item.ItemEntity;
+import net.minecraft.world.entity.player.Player;
 import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.level.Level;
 import net.minecraft.world.level.block.Block;
@@ -22,6 +23,7 @@ public class AccelerateSmallFlowers {
         Level level = event.getLevel();
         BlockPos pos = event.getPos();
         Block block = event.getState().getBlock();
+        Player player = event.getPlayer();
         if (event.getState().is(BlockTags.SMALL_FLOWERS)) {
             event.setSuccessful(true);
             if (level instanceof ServerLevel serverLevel) {
@@ -29,6 +31,8 @@ public class AccelerateSmallFlowers {
                         pos.getX() + 0.5, pos.getY() + 0.5, pos.getZ() + 0.5,
                         10, 0.5, 0.5, 0.5, 0.1);
             }
+            assert player != null;
+            player.getMainHandItem().shrink(1);
             ItemEntity itemEntity = new ItemEntity(level,pos.getX(),pos.getY(),pos.getZ(),new ItemStack(block));
             level.addFreshEntity(itemEntity);
         }
