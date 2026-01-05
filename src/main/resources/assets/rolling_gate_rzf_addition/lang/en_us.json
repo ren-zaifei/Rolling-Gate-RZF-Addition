@@ -32,5 +32,8 @@
   "rolling_gate_rzf_addition.rolling_gate.rule.accelerate_small_flowers.desc" : "Bone Meal Can Accelerate The Growth Of Small Flowers",
 
   "rolling_gate_rzf_addition.rolling_gate.rule.tough_wither_rose" : "Tough Wither Rose",
-  "rolling_gate_rzf_addition.rolling_gate.rule.tough_wither_rose.desc" : "Wither roses can be planted on any block."
+  "rolling_gate_rzf_addition.rolling_gate.rule.tough_wither_rose.desc" : "Wither roses can be planted on any block.",
+
+  "rolling_gate_rzf_addition.rolling_gate.rule.turtle_egg_fast_hatch" : "Turtle Egg Fast Hatch",
+  "rolling_gate_rzf_addition.rolling_gate.rule.turtle_egg_fast_hatch.desc" : "Make turtle eggs always crack when random ticked, rather than cracking with a 1/500 chance"
 }
