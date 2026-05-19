@@ -16,6 +16,7 @@
 | `cancelFluidBroke`       | `boolean` | `false` | `false`, `true` | 流体不会破坏红石原件       |
 | `accelerateSmallFlowers` | `boolean` | `false` | `false`, `true` | 骨粉可催熟小型花         |
 | `toughWitherRose`        | `boolean` | `false` | `false`, `true` | 凋零玫瑰可以种在任何方块上    |
+| `turtleEggFastHatch`     | `boolean` | `false` | `false`, `true` | 海龟蛋在白天也能快速孵化     |
 
 ---
 
@@ -31,16 +32,17 @@ Required Dependency：Rolling Gate [link](https://modrinth.com/mod/rolling-gate)
 
 ## rules
 
-| rules                    | type      | default | value           | desc                                                          |
-|--------------------------|-----------|---------|-----------------|---------------------------------------------------------------|
-| `cutString`              | `boolean` | `false` | `false`, `true` | Make String's Disarmed true                                   |
-| `lavaAndesiteHandler`    | `boolean` | `false` | `false`, `true` | Lava Solidifies Into Andesite When In Contact With Iron Block |
-| `cancelCreeperExplode`   | `boolean` | `false` | `false`, `true` | Creepers Can't Break Blocks When It Explode                   |
-| `renewableDragonHead`    | `boolean` | `false` | `false`, `true` | The Ender Dragon Drops A Dragon Head When killed              |
-| `smartEndermen`          | `boolean` | `false` | `false`, `true` | Endermen can only take Melons And Pumpkins                    |
-| `noTradeCooldown`        | `boolean` | `false` | `false`, `true` | No Trade Cooldown                                             |
-| `onePunch`               | `boolean` | `false` | `false`, `true` | Kill Mobs With One Punch In Creative Mode                     |
-| `cancelExplodeBroke`     | `boolean` | `false` | `false`, `true` | All Explosions Do Not Break Blocks                            |
-| `cancelFluidBroke`       | `boolean` | `false` | `false`, `true` | Fluid Do Not Break RedStone Component                         |
-| `accelerateSmallFlowers` | `boolean` | `false` | `false`, `true` | Bone Meal Can Accelerate The Growth Of Small Flowers          |
-| `toughWitherRose`        | `boolean` | `false` | `false`, `true` | Wither roses can be planted on any block.                     |
+| rules                    | type      | default | value           | desc                                                                                       |
+|--------------------------|-----------|---------|-----------------|--------------------------------------------------------------------------------------------|
+| `cutString`              | `boolean` | `false` | `false`, `true` | Make String's Disarmed true                                                                |
+| `lavaAndesiteHandler`    | `boolean` | `false` | `false`, `true` | Lava Solidifies Into Andesite When In Contact With Iron Block                              |
+| `cancelCreeperExplode`   | `boolean` | `false` | `false`, `true` | Creepers Can't Break Blocks When It Explode                                                |
+| `renewableDragonHead`    | `boolean` | `false` | `false`, `true` | The Ender Dragon Drops A Dragon Head When killed                                           |
+| `smartEndermen`          | `boolean` | `false` | `false`, `true` | Endermen can only take Melons And Pumpkins                                                 |
+| `noTradeCooldown`        | `boolean` | `false` | `false`, `true` | No Trade Cooldown                                                                          |
+| `onePunch`               | `boolean` | `false` | `false`, `true` | Kill Mobs With One Punch In Creative Mode                                                  |
+| `cancelExplodeBroke`     | `boolean` | `false` | `false`, `true` | All Explosions Do Not Break Blocks                                                         |
+| `cancelFluidBroke`       | `boolean` | `false` | `false`, `true` | Fluid Do Not Break RedStone Component                                                      |
+| `accelerateSmallFlowers` | `boolean` | `false` | `false`, `true` | Bone Meal Can Accelerate The Growth Of Small Flowers                                       |
+| `toughWitherRose`        | `boolean` | `false` | `false`, `true` | Wither roses can be planted on any block.                                                  |
+| `turtleEggFastHatch`     | `boolean` | `false` | `false`, `true` | Make turtle eggs always crack when random ticked, rather than cracking with a 1/500 chance |

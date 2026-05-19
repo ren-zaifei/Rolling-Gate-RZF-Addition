@@ -83,4 +83,18 @@ public class RollingGateRZFAdditionServerRules {
             }
     )
     public static boolean toughWitherRose = false;
+    //海龟蛋快速腐化
+    @Rule(
+            categories = {
+                    RollingGateRZFAddition.MODID,
+            }
+    )
+    public static boolean turtleEggFastHatch = false;
+    //经验吸收无冷却
+    @Rule(
+            categories = {
+                    RollingGateRZFAddition.MODID,
+            }
+    )
+    public static boolean xpNoCooldown = false;
 }

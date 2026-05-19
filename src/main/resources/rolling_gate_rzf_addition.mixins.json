@@ -6,6 +6,9 @@
   "mixins": [
     "CancelFluidBroke",
     "EndermanTakeBlockGoalMixin",
+    "ExperienceOrbMixin",
+    "PlayerMixin",
+    "TurtleEggMixin",
     "WitherRoseMixin"
   ],
   "client": [
