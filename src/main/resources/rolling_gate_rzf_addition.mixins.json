@@ -6,6 +6,8 @@
   "mixins": [
     "CancelFluidBroke",
     "EndermanTakeBlockGoalMixin",
+    "ExperienceOrbMixin",
+    "PlayerMixin",
     "TurtleEggMixin",
     "WitherRoseMixin"
   ],

@@ -90,4 +90,11 @@ public class RollingGateRZFAdditionServerRules {
             }
     )
     public static boolean turtleEggFastHatch = false;
+    //经验吸收无冷却
+    @Rule(
+            categories = {
+                    RollingGateRZFAddition.MODID,
+            }
+    )
+    public static boolean xpNoCooldown = false;
 }
